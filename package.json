@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "node.js-express",
+  "description": "Nesse curso você vai conhecer um framework de JavaScript, o Express, que foi criado com a finalidade de criar aplicativos web usando o Node.js.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrhystFerrari/Node.Js-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrhystFerrari/Node.Js-Express/issues"
+  },
+  "homepage": "https://github.com/KrhystFerrari/Node.Js-Express#readme"
+}
